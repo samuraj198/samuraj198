@@ -3,9 +3,9 @@ I'm Daniil, a backend developer.
 
 **My tech stack includes:**
 *   Laravel (PHP)
-*   SQL
+*   SQL (MySQL)
 *   Docker / Docker Compose
-*   Swagger
+*   Swagger (OpenAPI)
 *   Redis (caching)
 
 I am currently improving my backend skills and looking for a job.
