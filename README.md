@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Daniil, a backend developer.<br>
 I work from Backend stuff - Laravel, Docker, Swagger, Redis(Cache).<br>
-I am currently improving my backend skills.<br>
+I am currently improving my backend skills and looking for a job.<br>
 <!--
 **samuraj198/samuraj198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
