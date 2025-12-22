@@ -1,11 +1,11 @@
 ## Hi there 👋
 I'm Daniil, a backend developer.<br>
-My tech stack includes<br>
-  Laravel (PHP)<br>
-  SQL<br>
-  Docker / Docker-compose<br>
-  Swagger<br>
-  Redis (cache).<br>
+**My tech stack includes:**<br>
+*   Laravel (PHP)<br>
+*   SQL<br>
+*   Docker / Docker Compose<br>
+*   Swagger<br>
+*   Redis (caching)<br>
 I am currently improving my backend skills and looking for a job.<br>
 <!--
 **samuraj198/samuraj198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
