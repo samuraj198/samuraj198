@@ -6,7 +6,7 @@ I'm Daniil, a backend developer.
 *   SQL (MySQL)
 *   Docker / Docker Compose
 *   Swagger (OpenAPI)
-*   Redis (caching)
+*   Redis (Caching)
 
 I am currently improving my backend skills and looking for a job.
 <!--
